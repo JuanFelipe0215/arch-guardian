@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ArchGuardian.API/ArchGuardian.API.csproj" />
+    <Project Path="src/ArchGuardian.Application/ArchGuardian.Application.csproj" />
+    <Project Path="src/ArchGuardian.Domain/ArchGuardian.Domain.csproj" />
+    <Project Path="src/ArchGuardian.Infrastructure/ArchGuardian.Infrastructure.csproj" />
+  </Folder>
+</Solution>
