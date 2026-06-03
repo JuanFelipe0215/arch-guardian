@@ -1,4 +1,4 @@
-namespace ArchGuardian.Domain.ValueObjests;
+namespace ArchGuardian.Domain.ValueObjects;
 
 public enum SupportedLanguage
 {
