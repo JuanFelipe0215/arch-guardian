@@ -1,5 +1,5 @@
 
-using ArchGuardian.Domain.ValueObjests;
+using ArchGuardian.Domain.ValueObjects;
 
 namespace ArchGuardian.Domain.Entities;
 
