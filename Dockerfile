@@ -1,8 +1,3 @@
-# =============================================
-# ARCH-GUARDIAN — Dockerfile multi-stage
-# Stage 1: compiler — compila la app
-# Stage 2: runtime — solo lo necesario para correr
-# =============================================
 
 # --- Stage 1: Compiler ---
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS compiler
